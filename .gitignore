@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Rachana.BookStore/.vs/Rachana.BookStore
+/Rachana.BookStore/Rachana.BookStore/obj
+/Rachana.BookStore/Rachana.BookStore/bin/Debug/netcoreapp3.1
